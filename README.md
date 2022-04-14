@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samuel-williams-ed
-- 👀 I’m interested in designing web-based applications
+- 👀 I’m interested in designing web-based applications and Android apps.
 - 🌱 I’m currently learning JavaScript on Codeacademy.com
 
 
